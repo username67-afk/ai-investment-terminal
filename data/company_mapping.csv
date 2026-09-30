@@ -1,0 +1,115 @@
+ticker,name,group,sector
+TMCV.NS,Tata Motors,Tata Group,Automobile
+TCS.NS,Tata Consultancy Services,Tata Group,IT
+TATASTEEL.NS,Tata Steel,Tata Group,Metals
+TATAPOWER.NS,Tata Power,Tata Group,Energy
+TATACONSUM.NS,Tata Consumer Products,Tata Group,FMCG
+TATACHEM.NS,Tata Chemicals,Tata Group,Chemicals
+TATACOMM.NS,Tata Communications,Tata Group,Telecom
+TITAN.NS,Titan Company,Tata Group,Consumer Durables
+TRENT.NS,Trent,Tata Group,Retail
+INDHOTEL.NS,Indian Hotels Company,Tata Group,Hospitality
+RELIANCE.NS,Reliance Industries,Reliance Group,Energy
+INFY.NS,Infosys,Infosys Group,IT
+HCLTECH.NS,HCL Technologies,HCL Group,IT
+WIPRO.NS,Wipro,Wipro Group,IT
+TECHM.NS,Tech Mahindra,Mahindra Group,IT
+LTIM.NS,LTIMindtree,Larsen and Tata Group,IT
+HDFCBANK.NS,HDFC Bank,HDFC Group,Banking
+ICICIBANK.NS,ICICI Bank,ICICI Group,Banking
+SBIN.NS,State Bank of India,SBI Group,Banking
+AXISBANK.NS,Axis Bank,Axis Group,Banking
+KOTAKBANK.NS,Kotak Mahindra Bank,Kotak Group,Banking
+INDUSINDBK.NS,IndusInd Bank,IndusInd Group,Banking
+BAJFINANCE.NS,Bajaj Finance,Bajaj Group,Financial Services
+BAJAJFINSV.NS,Bajaj Finserv,Bajaj Group,Financial Services
+BAJAJ-AUTO.NS,Bajaj Auto,Bajaj Group,Automobile
+HINDUNILVR.NS,Hindustan Unilever,Unilever Group,FMCG
+ITC.NS,ITC,ITC Group,FMCG
+NESTLEIND.NS,Nestle India,Nestle Group,FMCG
+BRITANNIA.NS,Britannia Industries,Wadia Group,FMCG
+DABUR.NS,Dabur India,Dabur Group,FMCG
+MARUTI.NS,Maruti Suzuki,Suzuki Group,Automobile
+M&M.NS,Mahindra and Mahindra,Mahindra Group,Automobile
+HEROMOTOCO.NS,Hero MotoCorp,Hero Group,Automobile
+EICHERMOT.NS,Eicher Motors,Eicher Group,Automobile
+SUNPHARMA.NS,Sun Pharmaceutical,Sun Pharma Group,Pharma
+DRREDDY.NS,Dr Reddys Laboratories,Dr Reddys Group,Pharma
+CIPLA.NS,Cipla,Cipla Group,Pharma
+DIVISLAB.NS,Divis Laboratories,Divis Group,Pharma
+LT.NS,Larsen and Toubro,L&T Group,Infrastructure
+ADANIENT.NS,Adani Enterprises,Adani Group,Conglomerate
+ADANIPORTS.NS,Adani Ports and SEZ,Adani Group,Infrastructure
+ADANIGREEN.NS,Adani Green Energy,Adani Group,Energy
+ADANIPOWER.NS,Adani Power,Adani Group,Energy
+ULTRACEMCO.NS,UltraTech Cement,Aditya Birla Group,Cement
+GRASIM.NS,Grasim Industries,Aditya Birla Group,Cement
+HINDALCO.NS,Hindalco Industries,Aditya Birla Group,Metals
+JSWSTEEL.NS,JSW Steel,JSW Group,Metals
+COALINDIA.NS,Coal India,Government,Energy
+ONGC.NS,Oil and Natural Gas Corporation,Government,Energy
+NTPC.NS,NTPC,Government,Energy
+POWERGRID.NS,Power Grid Corporation,Government,Energy
+BHARTIARTL.NS,Bharti Airtel,Bharti Group,Telecom
+ASIANPAINT.NS,Asian Paints,Asian Paints Group,Paints
+PIDILITIND.NS,Pidilite Industries,Pidilite Group,Chemicals
+RAYMOND.NS,Raymond,Raymond Group,Textiles
+TIINDIA.NS,Tube Investments of India,Murugappa Group,Auto Components
+SONACOMS.NS,Sona BLW Precision Forgings,Sona Group,Auto Components
+BHARATFORG.NS,Bharat Forge,Kalyani Group,Auto Components
+EXIDEIND.NS,Exide Industries,Exide Group,Auto Components
+ARE&M.NS,Amara Raja Energy and Mobility,Amara Raja Group,Auto Components
+TTKPRESTIGE.NS,TTK Prestige,TTK Group,Consumer Durables
+VGUARD.NS,V-Guard Industries,V-Guard Group,Consumer Durables
+SYMPHONY.NS,Symphony Limited,Symphony Group,Consumer Durables
+BRIGADE.NS,Brigade Enterprises,Brigade Group,Real Estate
+SOBHA.NS,Sobha Limited,Sobha Group,Real Estate
+SUNTECK.NS,Sunteck Realty,Sunteck Group,Real Estate
+SHREECEM.NS,Shree Cement,Shree Group,Cement
+JKCEMENT.NS,JK Cement,JK Group,Cement
+RAMCOCEM.NS,The Ramco Cements,Ramco Group,Cement
+ACC.NS,ACC Limited,Adani Group,Cement
+AMBUJACEM.NS,Ambuja Cements,Adani Group,Cement
+SRF.NS,SRF Limited,SRF Group,Chemicals
+DEEPAKNTR.NS,Deepak Nitrite,Deepak Group,Chemicals
+AARTIIND.NS,Aarti Industries,Aarti Group,Chemicals
+NAVINFLUOR.NS,Navin Fluorine International,Navin Group,Chemicals
+ATUL.NS,Atul Limited,Atul Group,Chemicals
+TATAELXSI.NS,Tata Elxsi,Tata Group,IT
+ZENSARTECH.NS,Zensar Technologies,RPG Group,IT
+SONATSOFTW.NS,Sonata Software,Sonata Group,IT
+VMART.NS,V-Mart Retail,V-Mart Group,Retail
+SHOPERSTOP.NS,Shoppers Stop,Raheja Group,Retail
+METROBRAND.NS,Metro Brands,Metro Group,Footwear
+BERGEPAINT.NS,Berger Paints India,Berger Group,Paints
+KANSAINER.NS,Kansai Nerolac Paints,Kansai Group,Paints
+BALRAMCHIN.NS,Balrampur Chini Mills,Balrampur Group,Sugar
+TRIVENI.NS,Triveni Engineering and Industries,Triveni Group,Sugar
+KPRMILL.NS,K.P.R. Mill,KPR Group,Textiles
+NETWORK18.NS,Network18 Media and Investments,Reliance Group,Media
+TV18BRDCST.NS,TV18 Broadcast,Reliance Group,Media
+SPICEJET.NS,SpiceJet,SpiceJet Group,Aviation
+EASEMYTRIP.NS,Easy Trip Planners,EaseMyTrip Group,Travel
+THOMASCOOK.NS,Thomas Cook India,Fairfax Group,Travel
+IDEA.NS,Vodafone Idea,Vodafone Idea Group,Telecom
+NIACL.NS,New India Assurance,Government,Insurance
+GICRE.NS,General Insurance Corporation of India,Government,Insurance
+STARHEALTH.NS,Star Health and Allied Insurance,Star Health Group,Insurance
+LALPATHLAB.NS,Dr Lal PathLabs,Lal Group,Healthcare
+METROPOLIS.NS,Metropolis Healthcare,Metropolis Group,Healthcare
+NH.NS,Narayana Hrudayalaya,Narayana Group,Healthcare
+KIMS.NS,Krishna Institute of Medical Sciences,KIMS Group,Healthcare
+KALYANKJIL.NS,Kalyan Jewellers India,Kalyan Group,Retail
+WESTLIFE.NS,Westlife Foodworld,Westlife Group,Food and Beverage
+DEVYANI.NS,Devyani International,RJ Corp,Food and Beverage
+SAPPHIRE.NS,Sapphire Foods India,Sapphire Group,Food and Beverage
+SUZLON.NS,Suzlon Energy,Suzlon Group,Energy
+INOXWIND.NS,Inox Wind,Inox Group,Energy
+MAZDOCK.NS,Mazagon Dock Shipbuilders,Government,Defence
+COCHINSHIP.NS,Cochin Shipyard,Government,Defence
+GRSE.NS,Garden Reach Shipbuilders and Engineers,Government,Defence
+RVNL.NS,Rail Vikas Nigam,Government,Infrastructure
+RAILTEL.NS,RailTel Corporation of India,Government,Telecom
+TITAGARH.NS,Titagarh Rail Systems,Titagarh Group,Railways
+CARTRADE.NS,CarTrade Tech,CarTrade Group,Internet
+SWIGGY.NS,Swiggy,Swiggy Group,Food Delivery
